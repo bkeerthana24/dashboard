@@ -1,5 +1,5 @@
 # dashboard
-It is a Simple Student LMS Dashboard
+It is a Simple Student LMS Dashboard.
 We made a simple dashboard using html,css and java script.
 You can directly double click on the index file to see the output.
 You can check out the functions in script file and styling in style file.
